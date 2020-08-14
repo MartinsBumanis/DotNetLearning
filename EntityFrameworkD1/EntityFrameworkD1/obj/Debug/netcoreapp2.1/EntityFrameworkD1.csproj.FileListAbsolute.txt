@@ -1,0 +1,10 @@
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\bin\Debug\netcoreapp2.1\EntityFrameworkD1.deps.json
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\bin\Debug\netcoreapp2.1\EntityFrameworkD1.runtimeconfig.json
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\bin\Debug\netcoreapp2.1\EntityFrameworkD1.runtimeconfig.dev.json
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\bin\Debug\netcoreapp2.1\EntityFrameworkD1.dll
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\obj\Debug\netcoreapp2.1\EntityFrameworkD1.csproj.CoreCompileInputs.cache
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\obj\Debug\netcoreapp2.1\EntityFrameworkD1.AssemblyInfoInputs.cache
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\obj\Debug\netcoreapp2.1\EntityFrameworkD1.AssemblyInfo.cs
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\bin\Debug\netcoreapp2.1\EntityFrameworkD1.pdb
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\obj\Debug\netcoreapp2.1\EntityFrameworkD1.dll
+D:\Projects\DotNetLearning\EntityFrameworkD1\EntityFrameworkD1\obj\Debug\netcoreapp2.1\EntityFrameworkD1.pdb

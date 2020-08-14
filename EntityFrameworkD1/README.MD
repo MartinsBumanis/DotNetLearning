@@ -1,0 +1,1 @@
+Following along this https://channel9.msdn.com/Series/Entity-Framework-Core-101/Getting-Started-with-Entity-Framework-Core?term=entity%20framework&lang-en=true
